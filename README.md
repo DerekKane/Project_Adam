@@ -1,4 +1,4 @@
-# Project_Adam - Equestrian
+# Project_Adam - Equestrian Artifical Intelligence Algorithm
 
 Project Adam is a project for processing video's and classifying them with the starting code base as an activity recognition problem with CNN & LSTM/RNN based upon an Inception 3 framework and TensorFlow/Keras. The future stages will also aim to use the same video to produce 3d pose estimation and YOLO.
 
